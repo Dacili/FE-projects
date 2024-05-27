@@ -35,4 +35,16 @@
 <img width="956" alt="reset pw with data" src="https://github.com/Dacili/FE-projects/assets/37112852/3b1cdbba-fdc0-4d63-ad77-48509bcc19ac">
 <img width="217" alt="mobile view" src="https://github.com/Dacili/FE-projects/assets/37112852/8a655547-393a-40cb-920b-915700a047a8">
 
+## 3. Shift features
+**My role:**  Front-end developer  
+**Project description:**  I worked on Shift features. The screenshot shows one part of the features. It's used for handling shift templates in the app.
+  
+**Skills and deliverables:** 
+- Angular
+- HTML
+- CSS
+- JavaScript
+- Typescript  
+  
+  <img width="794" alt="shift templates" src="https://github.com/Dacili/FE-projects/assets/37112852/0492850b-52db-4132-ba13-e44974fb3916">
 
