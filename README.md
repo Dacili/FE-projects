@@ -1,6 +1,6 @@
 # FE projects
 
-### 1. Signup project
+## 1. Signup project
 **My role:**  Front-end developer
 
 **Project description:** Worked on signup project. There were plenty of pages. Cross-browser support, with mobile responsiveness.
@@ -19,7 +19,7 @@
   
 
 
-### 2. Login project
+## 2. Login project
 **My role:**  Front-end developer  
 **Project description:**  I worked on Login redesign project. Making it look more modern. UI is responsive, for mobile as well, and across all browsers.
   
