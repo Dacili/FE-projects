@@ -62,3 +62,4 @@
 <img width="490" alt="edit wf" src="https://github.com/Dacili/FE-projects/assets/37112852/cdc01cd6-6da8-450f-85b4-471f453682d7">
 <img width="685" alt="dashboard" src="https://github.com/Dacili/FE-projects/assets/37112852/cf92274a-ab48-4dd7-b1ec-8e742369596c">
 <img width="655" alt="triggers" src="https://github.com/Dacili/FE-projects/assets/37112852/45b16f64-642f-4915-a58e-860229f481b2">
+<img width="721" alt="completing tasks" src="https://github.com/Dacili/FE-projects/assets/37112852/37dac280-a58e-4b22-8016-c32ec7ab693f">
