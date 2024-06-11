@@ -1,6 +1,7 @@
 # FE projects
 My CV on date June 2024:  
-![Medina Dacic Fukelj CV canva](https://github.com/Dacili/FE-projects/assets/37112852/47b424bc-6d77-4ae8-949e-cdb999c08cb2)
+![Medina Dacic Fukelj CV (1) canva](https://github.com/Dacili/FE-projects/assets/37112852/a79b8134-0aa0-4a9f-bfbb-7e37ec1f8f3c)
+
 
 
 ## 1. Signup project
