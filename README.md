@@ -1,4 +1,7 @@
 # FE projects
+My CV on date June 2024:  
+![Medina Dacic Fukelj CV canva](https://github.com/Dacili/FE-projects/assets/37112852/47b424bc-6d77-4ae8-949e-cdb999c08cb2)
+
 
 ## 1. Signup project
 **My role:**  Front-end developer
