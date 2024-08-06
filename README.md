@@ -76,10 +76,11 @@ These updates will help clients manage their businesses with greater ease and ef
   
 <img width="400" alt="Recent tab" src="https://github.com/user-attachments/assets/57fddf8b-21ce-4732-86c1-78b908fa3186">  
 <img width="400" alt="group messsages" src="https://github.com/user-attachments/assets/44b77952-cda3-4ad8-a8da-406059e00bb1">  
-<img width="217" alt="Settings tab - preferences" src="https://github.com/user-attachments/assets/01f94af2-7222-4152-a22c-40b5e4a06480">
-<img width="218" alt="available groups" src="https://github.com/user-attachments/assets/50e5e422-9ef4-4066-a854-49b9edbe0ec5">  
-<img width="250" alt="group details" src="https://github.com/user-attachments/assets/1b21c2a9-fc70-40f7-bd16-1ed6744e5336">  
-<img width="218" alt="delete dialog" src="https://github.com/user-attachments/assets/3cb03be3-b28c-4b8a-850e-3bc3ca46077e">
+<img width="400" alt="Settings tab - preferences" src="https://github.com/user-attachments/assets/01f94af2-7222-4152-a22c-40b5e4a06480">  
+<br/>
+<img width="230" alt="available groups" src="https://github.com/user-attachments/assets/50e5e422-9ef4-4066-a854-49b9edbe0ec5">  
+<img width="230" alt="group details" src="https://github.com/user-attachments/assets/1b21c2a9-fc70-40f7-bd16-1ed6744e5336">  
+<img width="230" alt="delete dialog" src="https://github.com/user-attachments/assets/3cb03be3-b28c-4b8a-850e-3bc3ca46077e">  
 
 
 
