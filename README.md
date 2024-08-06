@@ -66,4 +66,20 @@ My CV on date June 2024:
 <img width="490" alt="edit wf" src="https://github.com/Dacili/FE-projects/assets/37112852/cdc01cd6-6da8-450f-85b4-471f453682d7">
 <img width="685" alt="dashboard" src="https://github.com/Dacili/FE-projects/assets/37112852/cf92274a-ab48-4dd7-b1ec-8e742369596c">
 <img width="655" alt="triggers" src="https://github.com/Dacili/FE-projects/assets/37112852/45b16f64-642f-4915-a58e-860229f481b2">
-<img width="721" alt="completing tasks" src="https://github.com/Dacili/FE-projects/assets/37112852/37dac280-a58e-4b22-8016-c32ec7ab693f">
+<img width="721" alt="completing tasks" src="https://github.com/Dacili/FE-projects/assets/37112852/37dac280-a58e-4b22-8016-c32ec7ab693f">  
+
+## 5. Chat app 
+**My role:**  Front-end developer  
+**Project description:** Chat app offers 1:1 chats, group discussions, and easy file sharing, ensuring team members stay connected and informed.  
+These updates will help clients manage their businesses with greater ease and effectiveness, as the main benefit of Chat app is to facilitate seamless communication within their teams.  
+
+  
+<img width="400" alt="Recent tab" src="https://github.com/user-attachments/assets/57fddf8b-21ce-4732-86c1-78b908fa3186">  
+<img width="400" alt="group messsages" src="https://github.com/user-attachments/assets/44b77952-cda3-4ad8-a8da-406059e00bb1">  
+<img width="217" alt="Settings tab - preferences" src="https://github.com/user-attachments/assets/01f94af2-7222-4152-a22c-40b5e4a06480">
+<img width="218" alt="available groups" src="https://github.com/user-attachments/assets/50e5e422-9ef4-4066-a854-49b9edbe0ec5">  
+<img width="250" alt="group details" src="https://github.com/user-attachments/assets/1b21c2a9-fc70-40f7-bd16-1ed6744e5336">  
+<img width="218" alt="delete dialog" src="https://github.com/user-attachments/assets/3cb03be3-b28c-4b8a-850e-3bc3ca46077e">
+
+
+
